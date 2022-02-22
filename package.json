@@ -1,0 +1,25 @@
+{
+  "name": "dbt",
+  "version": "1.0.0",
+  "description": "This is a website for transportation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yasir3322/dbt.git"
+  },
+  "keywords": [
+    "dbt"
+  ],
+  "author": "Yasir uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yasir3322/dbt/issues"
+  },
+  "homepage": "https://github.com/Yasir3322/dbt#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
